@@ -1,0 +1,18 @@
+------------------------------------------------
+Urunun Satis Tarihi : Fri May 27 14:31:28 2022
+ 
+Urunu Satin Alan Kisinin Bilgileri : 45328974156	Erhan Tarhana	05312070632
+Satilan Urunun Bilgileri : 102	iPhone	13 Pro Max
+Toplam Tutar (adet/birim/toplam fiyat) : 1	23000.000000	23000.000000
+------------------------------------------------
+Urunun Satis Tarihi : Fri May 27 14:33:14 2022
+ 
+Urunu Satin Alan Kisinin Bilgileri : 48576332312	Fatma Yçlmaz	05328654856
+Satilan Urunun Bilgileri : 101	iPhone	12
+Toplam Tutar (adet/birim/toplam fiyat) : 1	13500.000000	13500.000000
+------------------------------------------------
+Urunun Satis Tarihi : Tue Jun 21 18:31:16 2022
+ 
+Urunu Satin Alan Kisinin Bilgileri : 45328974156	Erhan Tarhana	05312070632
+Satilan Urunun Bilgileri : 101	iPhone	12
+Toplam Tutar (adet/birim/toplam fiyat) : 1	13500.000000	13500.000000
